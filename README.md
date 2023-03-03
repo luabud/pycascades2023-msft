@@ -1,4 +1,4 @@
-# Microsoft at PyCascades 2023 | aka.ms/pyc2023
+# Microsoft at PyCascades 2023 | aka.ms/pyc23
 Resources for Pythonistas attending PyCascades 2023
 
 ## Azure development workflows just made your life easier
