@@ -42,6 +42,7 @@ Resources for Pythonistas attending PyCascades 2023
 
 ⚙️ [Customize your VS Code experience like never before with Profiles](https://code.visualstudio.com/docs/editor/profiles), designed to simplify your workflow and boost productivity
 
+🌐 Code anywhere, anytime with [vscode.dev](https://vscode.dev/) and [github.dev](https://github.dev/)  
 
 
 
