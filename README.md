@@ -4,13 +4,10 @@ Resources for Pythonistas attending PyCascades 2023
 ## Azure development workflows just made your life easier
 
 ### Deploy Faster 
-🚀 Deploy to Azure App Service faster through your editor
 
 🏃‍♀️ [Speed up the deployment process with `azd` templates](https://azure.github.io/awesome-azd/) 
 
 ### Deploy Cheaper
-
-🐘 [Check out our new PostgreSQL Burstable Flexible Server](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/overview)
 
 ⚡ [Get the best out of your serverless development with Azure Functions' new Python programming model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python) - now offering a more Pythonic experience for more alignment with the language
 
@@ -19,11 +16,8 @@ Resources for Pythonistas attending PyCascades 2023
 ### Deploy Securely
 📑 [Azure Documentation for Python Developers](https://azure.microsoft.com/en-us/resources/developers/python/)
 
-👩‍💻 [Microsoft technical documentation](https://learn.microsoft.com/en-us/training/?ocid=aid3048883_UsefulResources_ThankYou_DevComm&eventId=PyCascades2023_9FVmV5LMGBd5) 
-
 ###  Azure free tier 
 ➡️ Don't have an Azure account? Sign up for free at https://azure.microsoft.com/en-us/free/
-
 
 ## Superpower your Python development experience in Visual Studio Code
 
