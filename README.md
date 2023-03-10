@@ -5,9 +5,9 @@ Resources for Pythonistas attending PyCascades 2023
 
 ### Deploy Faster 
 
-🏃‍♀️ Speed up your deployment process with [`azd` templates](https://azure.github.io/awesome-azd/) 
+🏃‍♀️ Speed up your deployment process with the [Azure Developer CLI (azd)](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) and [`azd` templates](https://azure.github.io/awesome-azd/) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out Savannah Ostrowki's talk: ["From GitHub to the cloud in minutes"](https://www.youtube.com/watch?v=9z3PiHSCcYs)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out Savannah Ostrowki's talk @ [GitHub Universe](https://githubuniverse.com/): ["From GitHub to the cloud in minutes"](https://www.youtube.com/watch?v=9z3PiHSCcYs)
 
 
 ### Deploy Cheaper
@@ -17,7 +17,8 @@ Resources for Pythonistas attending PyCascades 2023
 💵 Consult pricing in the [Azure Cost Portal](https://azure.microsoft.com/pricing/calculator/)
 
 ### Deploy Securely
-📑 [Azure Documentation for Python Developers](https://azure.microsoft.com/en-us/resources/developers/python/)
+
+📢 Python 3.11 is now available on Azure! heck the [Azure Documentation for Python Developers](https://azure.microsoft.com/en-us/resources/developers/python/)
 
 ###  Azure free tier 
 ➡️ Don't have an Azure account? Sign up for free at https://azure.microsoft.com/en-us/free/
@@ -37,13 +38,19 @@ Resources for Pythonistas attending PyCascades 2023
 ### Boost your productivity when developing Python code 
 🧠 Get the best from AI to empower your development experience with [GitHub Copilot](https://code.visualstudio.com/docs/editor/artificial-intelligence)
 
-🐍 Check out the [latest features of the Python extension for VS Code](https://devblogs.microsoft.com/python/)
+🐍 Check out the [latest features of the Python and Jupyter extensions for VS Code](https://devblogs.microsoft.com/python/)
+
+📊 Revolutionize your data processing workflow with our brand-new [Data Wranger for VS Code](https://aka.ms/datawrangler)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out Jeffrey Mew's talk @ [EuroPython](https://ep2022.europython.eu/): ["Revolutionizing the way you do data science"](https://www.youtube.com/watch?v=uPRQXDjQhMs&t=574s)
+
 
 🖌️ Create your own [Python tools extension for VS Code with our template](https://github.com/microsoft/vscode-python-tools-extension-template)
 
 ⚙️ Customize your VS Code experience like never before with [Profiles](https://code.visualstudio.com/docs/editor/profiles), designed to simplify your workflow and boost productivity
 
 🌐 Code anywhere, anytime with [vscode.dev](https://vscode.dev/) and [github.dev](https://github.dev/)  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Try it out with our [wordle](https://github.com/luabud/wordle) sample!
 
 
