@@ -14,7 +14,7 @@ Resources for Pythonistas attending PyCascades 2023
 
 ⚡ Get the best out of your serverless development with [Azure Functions' new Python programming model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python) - now offering a more Pythonic experience for more alignment with the language
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out the Azure Function's team  @ [Azure Friday](https://learn.microsoft.com/en-us/Shows/Azure-Friday): ["Developing Azure Functions using the v2 programming model for Python"](https://www.youtube.com/watch?v=KARieaWBxuk)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out the Azure Function's team  @ [Azure Friday](https://learn.microsoft.com/en-us/Shows/Azure-Friday) talking about ["Developing Azure Functions using the v2 programming model for Python"](https://www.youtube.com/watch?v=KARieaWBxuk)
 
 💵 Consult pricing in the [Azure Cost Portal](https://azure.microsoft.com/pricing/calculator/)
 
