@@ -45,7 +45,7 @@ Resources for Pythonistas attending PyCascades 2023
 
 🐍 Check out the [latest features of the Python and Jupyter extensions for VS Code](https://devblogs.microsoft.com/python/)
 
-📊 Revolutionize your data processing workflow with our brand-new [Data Wranger for VS Code](https://aka.ms/datawrangler)  
+📊 Revolutionize your data processing workflow with our brand-new [Data Wrangler for VS Code](https://aka.ms/datawrangler)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out Jeffrey Mew's talk @ [EuroPython](https://ep2022.europython.eu/): ["Revolutionizing the way you do data science"](https://www.youtube.com/watch?v=uPRQXDjQhMs&t=574s)
 
