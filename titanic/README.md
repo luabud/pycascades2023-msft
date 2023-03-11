@@ -19,7 +19,7 @@ Data Wrangler offers an interactive UI that writes the data processing code for 
 - Play around with the UI to process your data:
     - To remove a column, right-click on the column heading and delete it
     - To remove rows with missing values or substitute them with a computed default value, click on the desired column and select **Fill missing values** under the **Find and replace** section on the Data Wrangler view in the side panel.
-    - To reformat a categorical column by one-hot encoding it to make it suitable for machine learning algorithms, click on the column and select *One-hot encode* under the **Formulas** section on the Data Wrangler view in the side panel.
+    - To reformat a categorical column by one-hot encoding it to make it suitable for machine learning algorithms, click on the column and select **One-hot encode** under the **Formulas** section on the Data Wrangler view in the side panel.
     - To create a new derived column from existing columns, click on **New column by example** on the Data Wrangler view.
       - Select a target column and give a name to your new column. 
       - Enter an example of how you want the data in the derived column to look like in the Data Wrangler editor. 
