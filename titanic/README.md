@@ -9,4 +9,4 @@
 - Follow the steps in the Data Wrangler walkthrough 
    - If it doesn't automatically show up on install, run the **Data Wrangler: Open Walkthrough** command 
 - Open the `Titanic.csv` file in the Data Wrangler, either from the walkthrough, or from the **Data Wrangler: Open File** command
-- Explore the Data Wrangler and process your data away! You can refer to the **Cleaning Steps** section in the side bar under the **Data Wrangler** view to retrieve the generated code for each step or for all of them.      
+- You're all set up!  
