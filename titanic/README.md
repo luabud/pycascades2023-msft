@@ -35,6 +35,7 @@ Data Wrangler will generate the Python code to do all the operations you perform
 -  Create a new Jupyter notebook with **File** > **New File...**, and select Jupyter Notebook
 -  Select the kernel by clicking on the **Select Kernel** button on the top right of your notebook. Select the same virtual environment you created for trying out Data Wrangler.
 - Save the notebook (`Ctrl+S` or `Cmd+S`)  
+## Exploration
 -  Explore Copilot functionality by typing comments and seeing the suggested code. For example, you can start with `# read the Titanic-Dataset.csv` and see what Copilot suggests!
 -  Then try something like `# create a plot with the distribution of survivors by age`
 -  Play around with more visualizations you'd like to create!
