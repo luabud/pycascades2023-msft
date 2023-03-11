@@ -60,5 +60,8 @@ Resources for Pythonistas attending PyCascades 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 💪 Try it out with our [wordle](https://github.com/luabud/wordle) sample!
 
+### Stay in touch!
 
-
+🐦 Join us on [Twitter](https://twitter.com/pythonvscode)
+🤖 Join us on [Discord](https://aka.ms/python-discord)
+🐍 Catch us on the [Python Pulse](https://devblogs.microsoft.com/python/announcing-python-pulse/), streamed every month
