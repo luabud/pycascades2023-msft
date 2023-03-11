@@ -28,9 +28,13 @@ Data Wrangler offers an interactive UI that writes the data processing code for 
     
 Data Wrangler will generate the Python code to do all the operations you perform through the UI. To see get the code for each step, expand the **Cleaning Steps** tab on the Data Wranger view and preview the code for each step, or for all of them. 
 
-# Revolutiozine your data exploration and visualization workflow with GitHub Copilot! 
+# Power up your data exploration and visualization workflow with GitHub Copilot! 
 ## Set up 
 - Get started with a free trial of the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) extension.
 - Install the [Jupyter notebooks extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).
 -  Create a new Jupyter notebook with **File** > **New File...**, and select Jupyter Notebook
+-  Select the kernel by clicking on the **Select Kernel** button on the top right of your notebook. Select the same virtual environment you created for trying out Data Wrangler.
+- Save the notebook (`Ctrl+S` or `Cmd+S`)  
 -  Explore Copilot functionality by typing comments and seeing the suggested code. For example, you can start with `# read the Titanic-Dataset.csv` and see what Copilot suggests!
+-  Then try something like `# create a plot with the distribution of survivors by age`
+-  Play around with more visualizations you'd like to create!
