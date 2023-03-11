@@ -16,6 +16,8 @@ Resources for Pythonistas attending PyCascades 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out the Azure Function's team  @ [Azure Friday](https://learn.microsoft.com/en-us/Shows/Azure-Friday) talking about ["Developing Azure Functions using the v2 programming model for Python"](https://www.youtube.com/watch?v=KARieaWBxuk)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 💪 Try out with this [Quickstart Tutorial](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-decorators)!
+
 💵 Consult pricing in the [Azure Cost Portal](https://azure.microsoft.com/pricing/calculator/)
 
 ### Deploy Securely
@@ -46,6 +48,8 @@ Resources for Pythonistas attending PyCascades 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out Jeffrey Mew's talk @ [EuroPython](https://ep2022.europython.eu/): ["Revolutionizing the way you do data science"](https://www.youtube.com/watch?v=uPRQXDjQhMs&t=574s)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 💪 Try it out with our [titanic](https://github.com/luabud/pycascades2023-msft/tree/main/titanic) sample!
+
 
 🖌️ Create your own [Python tools extension for VS Code with our template](https://github.com/microsoft/vscode-python-tools-extension-template)
 
@@ -53,7 +57,7 @@ Resources for Pythonistas attending PyCascades 2023
 
 🌐 Code anywhere, anytime with [vscode.dev](https://vscode.dev/) and [github.dev](https://github.dev/)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ Try it out with our [wordle](https://github.com/luabud/wordle) sample!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 💪 Try it out with our [wordle](https://github.com/luabud/wordle) sample!
 
 
 
