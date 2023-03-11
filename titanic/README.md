@@ -1,4 +1,4 @@
-# Revolutiozine your data processing workflow with Data Wrangler 
+# Revolutiozine your data processing workflow with Data Wrangler! 
 
 - Download [VS Code Insiders](https://code.visualstudio.com/insiders/)
 - Install the [Data Wrangler extension](TBD)
