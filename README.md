@@ -22,7 +22,7 @@ Resources for Pythonistas attending PyCascades 2023
 
 ### Deploy Securely
 
-📢 Python 3.11 is now available on Azure! heck the [Azure Documentation for Python Developers](https://azure.microsoft.com/en-us/resources/developers/python/)
+📢 Python 3.11 is now available on Azure! Check the [Azure Documentation for Python Developers](https://azure.microsoft.com/en-us/resources/developers/python/)
 
 ###  Azure free tier 
 ➡️ Don't have an Azure account? Sign up for free at https://azure.microsoft.com/en-us/free/
