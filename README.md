@@ -11,6 +11,8 @@ Resources for Pythonistas attending PyCascades 2023
 
 🐍 Learn how a team at Microsoft is [helping make Python faster](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)!
 
+🌌 Contribute to the [development of Quantum development with GitHub Codespaces](https://www.youtube.com/watch?v=nj1ltuk7js8)
+
 ### Deploy Cheaper
 
 ⚡ Get the best out of your serverless development with [Azure Functions' new Python programming model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python) - now offering a more Pythonic experience for more alignment with the language
