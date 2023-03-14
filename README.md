@@ -11,17 +11,18 @@ Resources for Pythonistas attending PyCascades 2023
 
 🐍 Learn how a team at Microsoft is [helping make Python faster](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)!
 
-🌌 Contribute to the [development of Quantum development with GitHub Codespaces](https://www.youtube.com/watch?v=nj1ltuk7js8)
+🌌 Contribute to [Quantum development with GitHub Codespaces](https://www.youtube.com/watch?v=nj1ltuk7js8)
 
 ### Deploy Cheaper
 
-⚡ Get the best out of your serverless development with [Azure Functions' new Python programming model](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python) - now offering a more Pythonic experience for more alignment with the language
+💵 Consult pricing in the [Azure Cost Portal](https://azure.microsoft.com/pricing/calculator/)
+
+⚡ Get the best out of serverless development with [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python) -- now offering a more Pythonic experience with their v2 model for more alignment with the language
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out the Azure Function's team  @ [Azure Friday](https://learn.microsoft.com/en-us/Shows/Azure-Friday) talking about ["Developing Azure Functions using the v2 programming model for Python"](https://www.youtube.com/watch?v=KARieaWBxuk)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 💪 Try out with this [Quickstart Tutorial](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-decorators)!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 💪 Try it out with this [Quickstart Tutorial](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-decorators)!
 
-💵 Consult pricing in the [Azure Cost Portal](https://azure.microsoft.com/pricing/calculator/)
 
 ### Deploy Securely
 
