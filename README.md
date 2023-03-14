@@ -9,6 +9,7 @@ Resources for Pythonistas attending PyCascades 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡️ 📺 Check out Savannah Ostrowki's talk @ [GitHub Universe](https://githubuniverse.com/): ["From GitHub to the cloud in minutes"](https://www.youtube.com/watch?v=9z3PiHSCcYs)
 
+🐍 Learn how a team at Microsoft is [helping make Python faster](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)!
 
 ### Deploy Cheaper
 
@@ -43,7 +44,7 @@ Resources for Pythonistas attending PyCascades 2023
 ### Boost your productivity when developing Python code 
 🧠 Get the best from AI to empower your development experience with [GitHub Copilot](https://code.visualstudio.com/docs/editor/artificial-intelligence)
 
-🐍 Check out the [latest features of the Python and Jupyter extensions for VS Code](https://devblogs.microsoft.com/python/)
+✨ Check out the [latest features of the Python and Jupyter extensions for VS Code](https://devblogs.microsoft.com/python/)
 
 📊 Revolutionize your data processing workflow with our brand-new [Data Wrangler for VS Code](https://aka.ms/datawrangler)  
 
