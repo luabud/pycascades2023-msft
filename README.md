@@ -11,7 +11,7 @@ Resources for Pythonistas attending PyCascades 2023
 
 🐍 Learn how a team at Microsoft is [helping make Python faster](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)!
 
-🌌 Contribute to [Quantum development with GitHub Codespaces](https://www.youtube.com/watch?v=nj1ltuk7js8)
+🌌 Contribute to the development of [Quantum computing with GitHub Codespaces](https://www.youtube.com/watch?v=nj1ltuk7js8)
 
 ### Deploy Cheaper
 
