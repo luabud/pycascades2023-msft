@@ -4,7 +4,7 @@ Data Wrangler offers an interactive UI that writes the data processing code for 
 
 ## Set up 
 - Download [VS Code Insiders](https://code.visualstudio.com/insiders/)
-- Install the [Data Wrangler extension](TBD)
+- Install the [Data Wrangler extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
 - Install the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - Open the `titanic` folder in VS Code (**File** > **Open Folder...**)
 - Create a new conda environment by running the **Python: Create Enviroment** command under the Command Palette (`Ctrl+Shift+P`/`Cmd+Shift+P`)
