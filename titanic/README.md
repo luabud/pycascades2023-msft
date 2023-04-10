@@ -1,4 +1,4 @@
-# Revolutiozine your data processing workflow with Data Wrangler! 
+# Revolutionize your data processing workflow with Data Wrangler! 
 
 Data Wrangler offers an interactive UI that writes the data processing code for you using the [Pandas](https://pypi.org/project/pandas/) package.
 
